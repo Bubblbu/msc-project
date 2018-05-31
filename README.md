@@ -12,4 +12,4 @@ Keywords: _Reductionism_, _Philosophy of Neuroscience_, _Philosophy of Sciene_, 
 
 ## Concept (WIP)
 
-See the current status of the concept in this document.
+See the current status of the concept in [this document](files/concept_20180521.pdf).
